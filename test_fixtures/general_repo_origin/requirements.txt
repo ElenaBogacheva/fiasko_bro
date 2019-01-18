@@ -1,3 +1,0 @@
-collections==2.0.0
-django==2.0.0
-sys==2.0.0
